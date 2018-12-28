@@ -22,7 +22,7 @@
 			}
 		},
 		"size":{
-			"value":10,
+			"value":5,
 			"random":false,
 			"anim":{
 				"enable":true,
@@ -31,9 +31,9 @@
 		},
 		"line_linked":{
 			"enable":true,
-			"distance": 80,
+			"distance": 100,
 			"color":"#e5efff",
-			"width": 0.2
+			"width": 0.5
 		},
 		"move":{
 			"enable":true,
